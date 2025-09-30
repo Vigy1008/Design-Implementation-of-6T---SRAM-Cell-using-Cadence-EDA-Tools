@@ -1,5 +1,6 @@
 # Ex No: 04 - Design & Implementation of 6T SRAM Cell Using Cadence EDA Tools
-
+## Name VIGNESHWARAN VINAYAGAMOORTHY
+## Regno 212223060301
 ## Aim
 The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell using Cadence EDA tools and verify its functionality through transient analysis simulation.
 
@@ -45,8 +46,8 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 ## Schematic Diagram
 
 #### 1. Schematic of 6T SRAM Cell:
+<img width="1280" height="656" alt="image" src="https://github.com/user-attachments/assets/ff021cc1-78fb-4b86-8f24-811213448ae5" />
 
-   ![image](https://github.com/user-attachments/assets/2273733f-5e94-415a-9971-793c64816a0d)
 
 
    ![image](https://github.com/user-attachments/assets/c28aea2b-9e73-48e6-abdb-11c430321b86)
